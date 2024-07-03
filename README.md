@@ -74,12 +74,4 @@ Once the simulation is running, keep an eye on the console output to see orders 
 
 Feel like contributing to make this simulation even better? Fork the repository, make your changes, and send us a pull request. Let's build this assembly line together!
 
----
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-This version should strike a more casual yet informative tone, keeping the README engaging and easy to follow. Let me know if there's anything else you'd like to adjust!
